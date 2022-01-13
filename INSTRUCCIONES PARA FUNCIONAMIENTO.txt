@@ -17,6 +17,9 @@ correcto funcionamiento
 Luego de la correcta instalación de jvm(maquina virtual) en el proyecto encontraras 
 una carpeta llamada "dist"en cual encontraras:
 
+NOTA:TODOS LOS ARCHIVOS DE LA CARPETA "dist" deben estar juntos,tal como esta en la carpeta, mover uno de ellos,
+puede generara fallos.
+
 *una carpeta llamada "lib" donde encontraras todas las librerias 
 necesarias(archivos con extension .jar) para en buen funcionamiento del programa
 

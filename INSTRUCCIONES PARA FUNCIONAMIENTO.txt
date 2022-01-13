@@ -1,0 +1,30 @@
+Esta aplicación fue desarrollada con lengueje de programación Java, es una
+aplicacion de escritorio escrita en IDE netbeans 8.2. con java 8.
+
+para su correcto funcionamiento se debe instalar la maquina virtual de java
+(JVM) que encontrara en el siguiente enlace:
+
+https://www.java.com/es/download/ie_manual.jsp
+
+donde dependiendo de tu pc sea windows 32 o 64 bit , linux o el equipo 
+que tengas(si es windows recomiendo que tu equipo soporte 64 bits) debes instalar
+
+Si quiere revisar los codigos desde netbeans debe instalar la version 8.2 importar 
+el proyecto
+y cargar las librerias que se encuentran en la carpeta llamada "lib" para su 
+correcto funcionamiento
+
+Luego de la correcta instalación de jvm(maquina virtual) en el proyecto encontraras 
+una carpeta llamada "dist"en cual encontraras:
+
+*una carpeta llamada "lib" donde encontraras todas las librerias 
+necesarias(archivos con extension .jar) para en buen funcionamiento del programa
+
+*la base de datos llamada "juego.db" diseñada en SQLite Studio(si desea revisar puede
+descargar en https://sqlitestudio.pl/) descargaras un archivo comprimido, lo
+descomprimes, no es necesario instalar , buscas la carpeta"SQLiteStudio" y luego
+un archivo llamado "SQLiteStudio.exe" la importas y listo.
+
+por Ultimo y mas importante encontraras un ejecutable llamado "juego.jar", el cual 
+arranca el programa.
+
